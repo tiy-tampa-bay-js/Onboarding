@@ -6,6 +6,8 @@ The follow items are a list of tasks I would have each of you complete before ou
 
 If you have any questions or confusion about these tasks, please email me so I can help you work through them.
 
+Remember, we are all in this together. We will have individual assignments and group assignments. Always be willing and ready to help your peers.
+
 Thank you for your committment and hard work. It will be rewarded.
 
 - Justin Herrick
@@ -14,6 +16,7 @@ Thank you for your committment and hard work. It will be rewarded.
 
 ### Setup Tasks
 
+* Read the [Honesty Policy](https://github.com/tiy-tampa-bay-js/Onboarding/blob/master/honesty.md), [Homework Policy](https://github.com/tiy-tampa-bay-js/Onboarding/blob/master/homework.md), and  [Communication Policy](https://github.com/tiy-tampa-bay-js/Onboarding/blob/master/communication.md).
 * We will be spending a lot of time using GitHub (http://github.com), so before class starts, go ahead and sign up for an account and go through the "Hello World" introduction (https://guides.github.com/activities/hello-world/). That will get you ready to jump in on the first day. Email me (justin@theironyard.com) the username you choose so that I can get you added to the group that we will be using for class.
 
 * Believe it or not, a lot of time in the first weeks of programming is spent fixing simple typing errors. If you don't know how to touch type (i.e. type without looking at the keyboard), try to spend some time each day working on touch typing (you can try http://www.keybr.com/). If you already know how to touch type, I would highly recommend working through the JavaScript lessons on http://typing.io. Typing for programming is actually a good bit different than everyday typing, so getting some practice in could potentially save you a ton of time the first few weeks of class.
