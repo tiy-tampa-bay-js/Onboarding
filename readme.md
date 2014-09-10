@@ -39,7 +39,7 @@ __NSFW__ language may be present in some of these. _Dont attempt to watch all of
 * (https://www.youtube.com/watch?v=1i8ylq4j_EY) [28mins] Dealing with failure, success, stress, and imposter syndrome.
 * (http://codon.com/compilers-for-free) [41mins] A high level talk about programming, metaprogramming, and compilers. Warning: Here be Math. This talk may seem intimiating, but think of it as fun.
 * (https://www.youtube.com/watch?v=csyL9EC0S0c) [66mins] This is the long one. Don't let the title get you down, its a very inspiring talk. Lessons on learning programming, life in programming, and cultural biases in programming.
-* (http://vimeo.com/54042336) [33mins] A talk about culture, paradigms, and life. 
+* (https://www.youtube.com/watch?v=_oTEnczCS0s) [40mins] A talk about introspection, culture, paradigms, patterns, and life. 
 
 
 After you've finished with the videos I'd like for you to sign up [General Assembly](https://dash.generalassemb.ly/) and work through the first project by yourself. This will be what we cover in the first day of class and having this initial experience to the material will be very helpful when getting up to speed.
