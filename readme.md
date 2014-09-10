@@ -1,4 +1,4 @@
-# Welcome To The Iron Yard - Frond End Engineering #
+# Welcome To The Iron Yard - Front End Engineering #
 
 I hope you all are as excited as I am about getting this class started. It is in the best interest of everyone to make sure you as prepared as possible for the coming twelve weeks. Through large amounts of hard work and determination, you will learn, grow, and achieve.
 
@@ -8,7 +8,7 @@ If you have any questions or confusion about these tasks, please email me so I c
 
 Thank you for your committment and hard work. It will be rewarded.
 
--- Justin Herrick
+- Justin Herrick
 
 
 
