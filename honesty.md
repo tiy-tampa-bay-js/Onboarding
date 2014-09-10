@@ -1,15 +1,22 @@
-"Honesty is more than not lying. It is truth telling, truth speaking, truth living, and truth loving."
--James E. Faust
+#Honesty Policy#
+
+* __Honest with your feedback__
+
+* __Honest with your homework__
+
+* __Honest with your understanding__
+
+* __Honest with your feelings__
+
+* __Honest with your peers__
+
+* __Honest with yourself__
+
+
+>"Honesty is more than not lying. It is truth telling, truth speaking, truth living, and truth loving."
+>-James E. Faust
 
 I cannot stress enough the importance of honesty and open communication.
 
-#Honesty Policy#
-###Honest with your feedback
-###Honest with your homework
-###Honest with your understanding
-###Honest with your feelings
-###Honest with your peers
-###Honest with yourself
-
-
-Honesty is sincere, blameless, fairly earned, simple, unpretentious, and free of deceit.
+For the sake of Clarity, we'll define Honesty as:
+>Honesty - sincere, blameless, fairly earned, simple, unpretentious, and free of deceit.
