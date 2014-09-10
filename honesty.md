@@ -1,3 +1,6 @@
+>"Honesty is more than not lying. It is truth telling, truth speaking, truth living, and truth loving."
+>-James E. Faust
+
 #Honesty Policy#
 
 * __Honest with your feedback__
@@ -13,8 +16,7 @@
 * __Honest with yourself__
 
 
->"Honesty is more than not lying. It is truth telling, truth speaking, truth living, and truth loving."
->-James E. Faust
+
 
 I cannot stress enough the importance of honesty and open communication.
 
